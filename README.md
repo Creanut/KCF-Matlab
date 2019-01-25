@@ -1,2 +1,2 @@
-# KCF-
+# KCF算法（MATLAB版本）中的核心函数tracker.m的个人理解与解读
 本代码是JF大神的经典算法KCF算法的核心代码的个人理解与注释，主要解读了其开源的MATLAB代码中的tracker函数
